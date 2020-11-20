@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "humus"
+    }
+  },
+  "defaultProject": "humus",
+  "cli": {
+    "analytics": false
+  }
 }
