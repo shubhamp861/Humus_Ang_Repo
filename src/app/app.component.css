@@ -6,28 +6,7 @@ body{
     font-size: 15px;
     background: lightgray;
 }
-#project{
-    height: 59px;
-    background-color: #ffffff;
-    color: #ffff;
-    padding:0 50px;
-    position: relative;
-    z-index: 1;
-}
-#project .menuleft a{
-    font-size: 20px;
-    float: left;
-    text-decoration: none;
-    padding: 20px 10px 0;
-    color: black;
-}
-#project .menuright a{
-    font-size: 20px;
-    float: right;
-    text-decoration: none;
-    color: black;
-    padding: 20px 40px 0;
-}
+
 #secondphase{
     background-color: rgb(13, 0, 31);
     padding-top: 150px;
