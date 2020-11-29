@@ -1,5 +1,4 @@
 import { Component, OnInit } from '@angular/core';
-
 @Component({
   selector: 'app-second-phase',
   templateUrl: './second-phase.component.html',
