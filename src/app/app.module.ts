@@ -7,6 +7,7 @@ import { FirstComponentComponent } from './first-component/first-component.compo
 import { HeaderComponent } from './header/header.component';
 import { SecondPhaseComponent } from './second-phase/second-phase.component';
 import { ThirdPhaseComponent } from './third-phase/third-phase.component';
+import { ForthPhaseComponent } from './forth-phase/forth-phase.component';
 
 @NgModule({
   declarations: [
@@ -14,7 +15,8 @@ import { ThirdPhaseComponent } from './third-phase/third-phase.component';
     FirstComponentComponent,
     HeaderComponent,
     SecondPhaseComponent,
-    ThirdPhaseComponent
+    ThirdPhaseComponent,
+    ForthPhaseComponent
   ],
   imports: [
     BrowserModule,
