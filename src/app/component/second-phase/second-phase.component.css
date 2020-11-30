@@ -1,18 +1,19 @@
 
-#forthphase{
-    background-image: url("../../assets/img/pastre2.jpg");
+#thirdphase{
+    background-image: url("../../../assets/img/coffee2.jpg");
     background-repeat: no-repeat;
     background-size: 100% 100%;
     padding-top: 1px;
-    height: 800px;   
+    height: 600px;
+    box-shadow: 0 0 5px #9999998c;
 }
-#forthphase div h1{
+#thirdphase div h1 {
     color: rgb(255, 255, 255);
     text-align: center;
     padding-top: 29px;
     font-size: 33px;
 }
-#forthphase div p{
+#thirdphase div p{
     padding: 10px;
     color: #ffffff;
     text-align: center;
