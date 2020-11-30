@@ -10,6 +10,7 @@ import { ForthPhaseComponent } from './component/forth-phase/forth-phase.compone
 import { FivePhaseComponent } from './component/five-phase/five-phase.component';
 import { SeventhPhaseComponent } from './component/seventh-phase/seventh-phase.component';
 import { EightPhaseComponent } from './component/eight-phase/eight-phase.component';
+import { NonethPhaseComponent } from './component/noneth-phase/noneth-phase.component';
 
 @NgModule({
   declarations: [
@@ -21,7 +22,8 @@ import { EightPhaseComponent } from './component/eight-phase/eight-phase.compone
     ForthPhaseComponent,
     FivePhaseComponent,
     SeventhPhaseComponent,
-    EightPhaseComponent
+    EightPhaseComponent,
+    NonethPhaseComponent
   ],
   imports: [
     BrowserModule,
