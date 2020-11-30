@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-
+import { from } from 'rxjs';
 @Component({
   selector: 'app-seventh-phase',
   templateUrl: './seventh-phase.component.html',

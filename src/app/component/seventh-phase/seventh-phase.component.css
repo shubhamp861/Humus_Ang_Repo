@@ -1,0 +1,103 @@
+
+#seventhphase {
+    background-color: #e7e2e2;
+}
+#seventhphase .secondlogo{
+    
+    border-radius: 50%;
+    padding-top: 50px;
+}
+#seventhphase .secondlogo img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 7%;
+    border-radius: 50%;
+}
+.sevencont{
+    text-align: center;
+    padding-bottom: 50px;
+}
+.sevencont h1{
+    color: rgb(0, 0, 0);
+    padding-top: 20px;
+    font-size: 33px;
+}
+.sevencont p{
+    color: rgb(0, 0, 0);
+    font-size: 16px;
+}
+.sevencont button{
+    background-color: rgb(121 95 156);
+}
+#eightphase{
+    background-color: rgb(13, 0, 31);
+    padding-top: 80px;
+    box-shadow: 0 0 15px #000000; 
+}
+#eightphase div img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 7%;
+    border-radius: 50%;
+}
+.eighthead{
+    text-align: center;
+    padding-bottom: 50px;
+}
+.eighthead h1{
+    color: rgb(9, 255, 91);
+    text-align: center;
+    padding-top: 19px;
+    font-size: 33px;
+}
+.eighthead p{
+    color: #ffffff;
+    text-align: center;
+    font-size: 16px;
+    line-height: 35px;
+    padding-bottom: 30px;
+}
+.eighthead button{
+    background-color: rgb(9, 255, 91);
+}
+#ninthphase{
+    background-image: url("../../../assets/img//SO.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    padding-top: 1px;
+    height: 800px;
+}
+#ninthphase h1{
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding-top: 60px;
+    font-size: 33px;
+}
+#ninthphase p{
+    color: #ffffff;
+    text-align: center;
+    font-size: 16px;
+    line-height: 35px;
+}
+#tenthphase{
+    background-image: url("../../../assets/img/birthday.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    padding-top: 1px;
+    height: 800px;
+}
+#tenthphase h1{
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding-top: 60px;
+    font-size: 33px;
+}
+#tenthphase p{
+    color: #ffffff;
+    text-align: center;
+    font-size: 16px;
+    line-height: 35px;
+    padding-top: 50px;
+}

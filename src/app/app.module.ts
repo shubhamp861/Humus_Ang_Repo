@@ -9,6 +9,7 @@ import { ThirdPhaseComponent } from './component/third-phase/third-phase.compone
 import { ForthPhaseComponent } from './component/forth-phase/forth-phase.component';
 import { FivePhaseComponent } from './component/five-phase/five-phase.component';
 import { SeventhPhaseComponent } from './component/seventh-phase/seventh-phase.component';
+import { EightPhaseComponent } from './component/eight-phase/eight-phase.component';
 
 @NgModule({
   declarations: [
@@ -19,7 +20,8 @@ import { SeventhPhaseComponent } from './component/seventh-phase/seventh-phase.c
     ThirdPhaseComponent,
     ForthPhaseComponent,
     FivePhaseComponent,
-    SeventhPhaseComponent
+    SeventhPhaseComponent,
+    EightPhaseComponent
   ],
   imports: [
     BrowserModule,
